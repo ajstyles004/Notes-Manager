@@ -2,6 +2,13 @@
 
 A beautifully crafted, feature-rich Notes Management application built on the MERN stack. Designed with modern aesthetics in mind, this app features glassmorphism effects, a curated pastel color palette, smooth micro-animations, and a completely customized "warm chocolate" dark mode.
 
+## 📸 Screenshots
+
+![Dashboard Light Mode](assets/light-mode.png)
+![Dashboard Dark Mode](assets/dark-mode.png)
+![Calendar View](assets/calendar.png)
+![Todos View](assets/todos.png)
+
 ## 🌟 Key Features
 
 - **Dynamic Authentication**: Full JWT-based login and signup system that greets you by your name.
